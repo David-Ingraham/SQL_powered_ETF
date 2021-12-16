@@ -1,4 +1,4 @@
-# Create a Web Application for an ETF Analyzer
+# SQL Web Application for an ETF Analyzer
 
 In this Challenge assignment, you’ll build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
